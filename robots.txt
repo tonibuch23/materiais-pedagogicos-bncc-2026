@@ -1,6 +1,32 @@
 User-agent: *
 Allow: /
-Sitemap: https://tonibuch23.github.io/materiais-pedagogicos-bncc-2026/sitemap.xml
 
-# Materiais Pedagogicos BNCC 2026
-# Planos de Aula, Atividades, Avaliacoes e Slides
+# Crawlers de IA bem-vindos (queremos ser citados/recomendados por IA)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://tonibuch23.github.io/materiais-pedagogicos-bncc-2026/sitemap.xml
