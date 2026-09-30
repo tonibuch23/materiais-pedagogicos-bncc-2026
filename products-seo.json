@@ -1,0 +1,878 @@
+{
+ "planos-de-aula-diarios-bercario-bncc-2025": {
+  "titulo": "300 Planos — Berçário conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: 300 planos para bebês de 0 a 1 ano e 6 meses. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-atividades-arte-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Plano de Ensino de Arte — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: plano de ensino de Arte para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-atividades-ciencias-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Planejamento Anual e Bimestral de Ciências — 6º ao 9º ano",
+  "descricao": "Tudo em um só arquivo: planejamento anual e bimestral de Ciências para turmas do 6º ao 9º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamentos-atividades-educacao-fisica-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Plano de Ensino de Educação Física — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: plano de ensino de Educação Física para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planejamentos-atividades-geografia-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Plano de Ensino de Geografia — 6º ao 9º ano com base na BNCC",
+  "descricao": "Planejamento resolvido: plano de ensino de Geografia para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planejamentos-atividades-ingles-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Plano de Ensino de Inglês — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: plano de ensino de Inglês para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planejamentos-atividades-matematica-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Planejamento de Matemática — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Matemática para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planejamentos-atividades-portugues-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Planejamento Anual e Bimestral de Português — 6º ao 9º ano",
+  "descricao": "Planejamento resolvido: planejamento anual e bimestral de Português para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planejamentos-atividades-ensino-religioso-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Plano de Ensino de Ensino Religioso — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: plano de ensino de Ensino Religioso para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "combo-planejamentos-todas-disciplinas-6-ao-9-ano-ensino-fundamental-2-bncc-2025": {
+  "titulo": "Kit Completo — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: kit completo para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planejamentos-atividades-biologia-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento de Biologia — Ensino Médio com base na BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Biologia para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamentos-atividades-quimica-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento de Química — Ensino Médio de acordo com a BNCC",
+  "descricao": "Material pronto para usar: planejamento de Química para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamentos-atividades-fisica-ensino-medio-bncc-2025": {
+  "titulo": "Plano de Ensino de Física — Ensino Médio conforme a BNCC",
+  "descricao": "Chega de montar material do zero: plano de ensino de Física para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planejamentos-atividades-matematica-ensino-medio-bncc-2025": {
+  "titulo": "Plano de Ensino de Matemática — Ensino Médio alinhado à BNCC",
+  "descricao": "Economize horas de preparação: plano de ensino de Matemática para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planejamentos-atividades-portugues-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento de Português — Ensino Médio de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Português para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planejamentos-atividades-arte-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento Anual e Bimestral de Arte — Ensino Médio alinhado à BNCC",
+  "descricao": "Material pronto para usar: planejamento anual e bimestral de Arte para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-atividades-educacao-fisica-ensino-medio-bncc-2025": {
+  "titulo": "Plano de Ensino de Educação Física — Ensino Médio com base na BNCC",
+  "descricao": "Tudo em um só arquivo: plano de ensino de Educação Física para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planejamentos-atividades-filosofia-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento Anual e Bimestral de Filosofia — Ensino Médio",
+  "descricao": "Chega de montar material do zero: planejamento anual e bimestral de Filosofia para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planejamentos-atividades-historia-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento Anual e Bimestral de História — Ensino Médio",
+  "descricao": "Planejamento resolvido: planejamento anual e bimestral de História para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamentos-atividades-ingles-ensino-medio-bncc-2025": {
+  "titulo": "Planejamento Anual e Bimestral de Inglês — Ensino Médio",
+  "descricao": "Material pronto para usar: planejamento anual e bimestral de Inglês para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planejamentos-atividades-sociologia-ensino-medio-bncc-2025": {
+  "titulo": "Plano de Ensino de Sociologia — Ensino Médio conforme a BNCC",
+  "descricao": "Material pronto para usar: plano de ensino de Sociologia para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "combo-completo-novo-ensino-medio-todas-disciplinas-bncc-2025": {
+  "titulo": "700 Atividades — Ensino Médio com base na BNCC",
+  "descricao": "Material pronto para usar: 700 atividades para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "jogos-pedagogicos-habilidades-cognitivas-educacao-infantil-fundamental": {
+  "titulo": "60 Jogos Pedagógicos de Habilidades Cognitivas",
+  "descricao": "Sessenta jogos para atenção, memória e raciocínio, da Educação Infantil ao Fundamental. Prontos para imprimir e montar."
+ },
+ "atividades-alfabetizacao-completas-educacao-infantil-fundamental": {
+  "titulo": "Alfabetização Completa — Atividades para Imprimir",
+  "descricao": "Da consciência fonológica à produção de pequenos textos, em sequência. Para Educação Infantil e início do Fundamental."
+ },
+ "atividades-educacao-especial-tdah-autismo-dislexia-sindrome-down": {
+  "titulo": "Atividades de Educação Especial — TDAH, Autismo e Dislexia",
+  "descricao": "Material adaptado para TDAH, autismo, dislexia e síndrome de Down, com comandos claros e apoio visual. Editável em Word."
+ },
+ "atividades-53-datas-comemorativas-ano-letivo": {
+  "titulo": "Atividades de Datas Comemorativas — Ano Letivo Completo",
+  "descricao": "Atividades prontas para as 53 datas do calendário escolar, da Páscoa ao Natal. Editáveis em Word e prontas para imprimir em PDF."
+ },
+ "atividades-consciencia-fonologica-alfabetizacao": {
+  "titulo": "Consciência Fonológica — Atividades de Alfabetização",
+  "descricao": "Rimas, sílabas e sons iniciais para trabalhar a base da leitura e da escrita. Material editável em Word e pronto para imprimir."
+ },
+ "atividades-eja-educacao-jovens-adultos-alfabetizacao": {
+  "titulo": "Alfabetização de Jovens e Adultos — Atividades EJA",
+  "descricao": "Atividades de leitura e escrita com temas do cotidiano adulto, para turmas de EJA. Editáveis em Word e prontas para imprimir."
+ },
+ "atividades-producao-interpretacao-texto-fundamental": {
+  "titulo": "Produção e Interpretação de Texto — Fundamental",
+  "descricao": "Textos com questões de compreensão e propostas de escrita para o Ensino Fundamental. Em Word editável e PDF para imprimir."
+ },
+ "atividades-ingles-espanhol-criancas-educacao-infantil-fundamental": {
+  "titulo": "Inglês e Espanhol para Crianças — Atividades Prontas",
+  "descricao": "Vocabulário ilustrado e atividades lúdicas em inglês e espanhol para Educação Infantil e Fundamental. Prontas para imprimir."
+ },
+ "atividades-biblicas-criancas-escola-dominical-catequese": {
+  "titulo": "Atividades Bíblicas para Crianças — Escola Dominical",
+  "descricao": "Histórias e atividades para escola dominical e catequese, com linguagem adequada a cada faixa. Editáveis e prontas para imprimir."
+ },
+ "atividades-bercario-maternal-0-3-anos": {
+  "titulo": "Atividades para Berçário e Maternal — 0 a 3 Anos",
+  "descricao": "Propostas sensoriais e motoras para bebês e crianças de até 3 anos, por faixa etaria. Prontas para imprimir e aplicar."
+ },
+ "300-planos-diarios-bercario-2026": {
+  "titulo": "300 Planos — Berçário conforme a BNCC",
+  "descricao": "Economize horas de preparação: 300 planos para bebês de 0 a 1 ano e 6 meses. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "ebooks-educacao-infantil-bncc-2026-planejamento-atividades-e-avaliacao": {
+  "titulo": "Avaliações por Bimestre — Educação Infantil com base na BNCC",
+  "descricao": "Material pronto para usar: avaliações por bimestre para turmas de Educação Infantil. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "combo-de-planejamento-de-aula-para-educacao-infantil-completo-e-editavel-2026": {
+  "titulo": "Combo Completo — Educação Infantil alinhado à BNCC",
+  "descricao": "Material pronto para usar: combo completo para turmas de Educação Infantil. Editável em Word e pronto para imprimir em PDF."
+ },
+ "50-projetos-para-pre-escola-alinhado-com-a-bncc-2026": {
+  "titulo": "50 Projetos Pedagógicos para Pre-escola",
+  "descricao": "Cinquenta projetos completos para a pré-escola, com objetivos e passo a passo alinhados à BNCC. Editáveis em Word."
+ },
+ "planos-diarios-educacao-infantil-bncc-2026": {
+  "titulo": "Planos de Aula — Educação Infantil com base na BNCC",
+  "descricao": "Planejamento resolvido: planos de aula para turmas de Educação Infantil. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "300-planos-diarios-maternal-2026": {
+  "titulo": "300 Planos — Maternal conforme a BNCC",
+  "descricao": "Economize horas de preparação: 300 planos para turmas de maternal. Formato editável, para ajustar à sua turma."
+ },
+ "combo-de-planejamentos-de-aula-para-bercario-completo-e-editavel-2026": {
+  "titulo": "Kit Completo — Berçário com base na BNCC",
+  "descricao": "Chega de montar material do zero: kit completo para bebês de 0 a 1 ano e 6 meses. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamentos-e-atividades-educacao-infantil-bncc-2026": {
+  "titulo": "Plano de Ensino — Educação Infantil com base na BNCC",
+  "descricao": "Material pronto para usar: plano de ensino para turmas de Educação Infantil. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "cartas-de-intencao-2026": {
+  "titulo": "Cartas de Intenção para Professores — Modelos Prontos",
+  "descricao": "Modelos de carta de intenção para processo seletivo e contratação na educação. Em Word: é só adaptar aos seus dados."
+ },
+ "300-planos-diarios-pre-escola-2026": {
+  "titulo": "300 Planos — Pré-escola com base na BNCC",
+  "descricao": "Economize horas de preparação: 300 planos para turmas de pré-escola. Editável em Word e pronto para imprimir em PDF."
+ },
+ "combo-de-planejamentos-de-aula-para-maternal-completo-e-editavel-2026": {
+  "titulo": "Pacote Completo — Maternal alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: pacote completo para turmas de maternal. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-diarios-2o-ano-fundamental-bncc-2026": {
+  "titulo": "Planejamento Diário — 2º ano conforme a BNCC",
+  "descricao": "Planejamento resolvido: planejamento diário para turmas de 2º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planejamentos-de-aula-bncc-2026-ensino-fundamental-1o-ao-5o-ano": {
+  "titulo": "Planejamento — 1º ao 5º ano alinhado à BNCC",
+  "descricao": "Economize horas de preparação: planejamento para turmas do 1º ao 5º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "slides-animados-1o-ao-5o-ano-bncc-2026": {
+  "titulo": "Slides para Aula — 1º ao 5º ano alinhado à BNCC",
+  "descricao": "Economize horas de preparação: slides para aula para turmas do 1º ao 5º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamentos-1o-ao-5o-ano-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral — 1º ao 5º ano de acordo com a BNCC",
+  "descricao": "Material pronto para usar: planejamento anual e bimestral para turmas do 1º ao 5º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planejamento-bncc-2026-3o-ano-ensino-fundamental-1o-bimestre": {
+  "titulo": "Planejamento — 3º ano alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: planejamento para turmas de 3º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "slides-animados-1o-ano-bncc-2026": {
+  "titulo": "Slides Prontos — 1º ano alinhado à BNCC",
+  "descricao": "Planejamento resolvido: slides prontos para turmas de 1º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planejamento-anos-iniciais-1o-ao-5o-ano-2026": {
+  "titulo": "Plano de Ensino — 1º ao 5º ano com base na BNCC",
+  "descricao": "Economize horas de preparação: plano de ensino para turmas do 1º ao 5º ano. Formato editável, para ajustar à sua turma."
+ },
+ "slides-animados-3o-ano-bncc-2026": {
+  "titulo": "Slides Prontos — 3º ano de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: slides prontos para turmas de 3º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planejamento-bncc-2026-2o-ano-ensino-fundamental-1o-bimestre": {
+  "titulo": "Planejamento Anual e Bimestral — 2º ano com base na BNCC",
+  "descricao": "Chega de montar material do zero: planejamento anual e bimestral para turmas de 2º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planos-diarios-1o-ano-fundamental-bncc-2026": {
+  "titulo": "Planos de Aula — 1º ano de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: planos de aula para turmas de 1º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-anuais-2o-ano-fundamental-i-bncc-2026": {
+  "titulo": "Plano de Ensino — 1º ao 5º ano de acordo com a BNCC",
+  "descricao": "Material pronto para usar: plano de ensino para turmas do 1º ao 5º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planejamento-bncc-2026-1o-ano-ensino-fundamental-1o-bimestre": {
+  "titulo": "Plano de Ensino — 1º ano alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: plano de ensino para turmas de 1º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-anuais-1o-ano-fundamental-i-bncc-2026": {
+  "titulo": "Plano de Ensino — 1º ao 5º ano de acordo com a BNCC",
+  "descricao": "Material pronto para usar: plano de ensino para turmas do 1º ao 5º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "atividades-1o-ao-5o-ano-bncc-2026": {
+  "titulo": "Caderno de Atividades — 1º ao 5º ano conforme a BNCC",
+  "descricao": "Planejamento resolvido: caderno de atividades para turmas do 1º ao 5º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planejamentos-e-atividades-1o-ao-5o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino — 1º ao 5º ano conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: plano de ensino para turmas do 1º ao 5º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "avaliacoes-do-1o-ao-5o-ano-bncc-2026": {
+  "titulo": "Avaliações — 1º ao 5º ano de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: avaliações para turmas do 1º ao 5º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "combo-de-planejamentos-de-aula-para-2o-ano-ensino-fundamental-completo-e-editavel-2026": {
+  "titulo": "Pacote Completo — 2º ano alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: pacote completo para turmas de 2º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planos-diarios-3o-ano-fundamental-bncc-2026": {
+  "titulo": "Planos de Aula — 3º ano alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: planos de aula para turmas de 3º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "ensino-religioso-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Provas e Avaliações de Ensino Religioso — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: provas e avaliações de Ensino Religioso para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "ensino-religioso-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Ensino Religioso — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento de Ensino Religioso para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "ensino-religioso-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Ensino Religioso — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Ensino Religioso para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "slides-animados-ensino-religioso-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Apresentações de Aula de Ensino Religioso — 6º ao 9º ano",
+  "descricao": "Planejamento resolvido: apresentações de aula de Ensino Religioso para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "ensino-religioso-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Atividades Prontas de Ensino Religioso — 6º ao 9º ano",
+  "descricao": "Economize horas de preparação: atividades prontas de Ensino Religioso para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planos-diarios-ensino-religioso-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos de Aula de Ensino Religioso — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: planos de aula de Ensino Religioso para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "lingua-portuguesa-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Língua Portuguesa — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Economize horas de preparação: planejamento de Língua Portuguesa para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "slides-animados-lingua-portuguesa-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Apresentações de Aula de Língua Portuguesa — 6º ao 9º ano",
+  "descricao": "Economize horas de preparação: apresentações de aula de Língua Portuguesa para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "lingua-portuguesa-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Avaliações por Bimestre de Língua Portuguesa — 6º ao 9º ano",
+  "descricao": "Chega de montar material do zero: avaliações por bimestre de Língua Portuguesa para turmas do 6º ao 9º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "lingua-portuguesa-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Atividades para Imprimir de Língua Portuguesa — 6º ao 9º ano",
+  "descricao": "Planejamento resolvido: atividades para imprimir de Língua Portuguesa para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-diarios-lingua-portuguesa-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos Diários de Língua Portuguesa — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: planos diários de Língua Portuguesa para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "lingua-portuguesa-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino de Língua Portuguesa — 6º ao 9º ano com base na BNCC",
+  "descricao": "Tudo em um só arquivo: plano de ensino de Língua Portuguesa para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "slides-animados-arte-6o-ao-9o-ano-bncc-2026-artes": {
+  "titulo": "Apresentações de Aula de Arte — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: apresentações de aula de Arte para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "arte-atividades-do-6o-ao-9o-ano-bncc-2026-artes": {
+  "titulo": "Caderno de Atividades de Arte — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Economize horas de preparação: caderno de atividades de Arte para turmas do 6º ao 9º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "arte-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026-artes": {
+  "titulo": "Plano de Ensino de Arte — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Chega de montar material do zero: plano de ensino de Arte para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "arte-avaliacoes-6o-ao-9o-ano-bncc-2026-artes": {
+  "titulo": "Provas e Avaliações de Arte — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Planejamento resolvido: provas e avaliações de Arte para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planos-diarios-arte-6o-ao-9o-ano-bncc-2026-artes": {
+  "titulo": "Planos Diários de Arte — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: planos diários de Arte para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "educacao-fisica-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino de Educação Física — 6º ao 9º ano com base na BNCC",
+  "descricao": "Economize horas de preparação: plano de ensino de Educação Física para turmas do 6º ao 9º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "educacao-fisica-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Caderno de Atividades de Educação Física — 6º ao 9º ano",
+  "descricao": "Planejamento resolvido: caderno de atividades de Educação Física para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "educacao-fisica-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino de Educação Física — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: plano de ensino de Educação Física para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "educacao-fisica-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Provas e Avaliações de Educação Física — 6º ao 9º ano",
+  "descricao": "Tudo em um só arquivo: provas e avaliações de Educação Física para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planos-diarios-educacao-fisica-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos Diários de Educação Física — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: planos diários de Educação Física para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "nao-informado": {
+  "titulo": "Material de Apoio — Ensino Fundamental conforme a BNCC",
+  "descricao": "Planejamento resolvido: material de apoio para turmas do Fundamental. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "slides-animados-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Slides Prontos — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Planejamento resolvido: slides prontos para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Caderno de Atividades — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Planejamento resolvido: caderno de atividades para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "avaliacoes-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Provas e Avaliações — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: provas e avaliações para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino — 6º ao 9º ano com base na BNCC",
+  "descricao": "Planejamento resolvido: plano de ensino para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planos-diarios-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento Diário — 6º ao 9º ano com base na BNCC",
+  "descricao": "Chega de montar material do zero: planejamento diário para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "matematica-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Atividades Prontas de Matemática — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: atividades prontas de Matemática para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planos-diarios-matematica-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos de Aula de Matemática — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Economize horas de preparação: planos de aula de Matemática para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "slides-animados-matematica-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Apresentações de Aula de Matemática — 6º ao 9º ano",
+  "descricao": "Planejamento resolvido: apresentações de aula de Matemática para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "matematica-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Matemática — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Matemática para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "matematica-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Avaliações de Matemática — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: avaliações de Matemática para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "matematica-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Matemática — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento de Matemática para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "ciencias-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Ciências — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Planejamento resolvido: planejamento de Ciências para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "ciencias-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Atividades para Imprimir de Ciências — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Economize horas de preparação: atividades para imprimir de Ciências para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "slides-animados-ciencias-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Apresentações de Aula de Ciências — 6º ao 9º ano com base na BNCC",
+  "descricao": "Tudo em um só arquivo: apresentações de aula de Ciências para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "ciencias-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral de Ciências — 6º ao 9º ano",
+  "descricao": "Material pronto para usar: planejamento anual e bimestral de Ciências para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planos-diarios-ciencias-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos Diários de Ciências — 6º ao 9º ano com base na BNCC",
+  "descricao": "Material pronto para usar: planos diários de Ciências para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "ciencias-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Avaliações de Ciências — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Economize horas de preparação: avaliações de Ciências para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-diarios-historia-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos Diários de História — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: planos diários de História para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "historia-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino de História — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Material pronto para usar: plano de ensino de História para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "historia-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Caderno de Atividades de História — 6º ao 9º ano com base na BNCC",
+  "descricao": "Chega de montar material do zero: caderno de atividades de História para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "slides-animados-historia-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Slides Prontos de História — 6º ao 9º ano com base na BNCC",
+  "descricao": "Tudo em um só arquivo: slides prontos de História para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "historia-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Avaliações por Bimestre de História — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Material pronto para usar: avaliações por bimestre de História para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planos-diarios-geografia-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento Diário de Geografia — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Chega de montar material do zero: planejamento diário de Geografia para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "geografia-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento de Geografia — 6º ao 9º ano com base na BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Geografia para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "geografia-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Provas e Avaliações de Geografia — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: provas e avaliações de Geografia para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "slides-animados-geografia-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Slides Prontos de Geografia — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: slides prontos de Geografia para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "geografia-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Atividades para Imprimir de Geografia — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: atividades para imprimir de Geografia para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "geografia-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino de Geografia — 6º ao 9º ano conforme a BNCC",
+  "descricao": "Economize horas de preparação: plano de ensino de Geografia para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "lingua-inglesa-planejamentos-e-atividades-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral — 6º ao 9º ano com base na BNCC",
+  "descricao": "Economize horas de preparação: planejamento anual e bimestral para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "slides-animados-lingua-inglesa-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Slides Prontos — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: slides prontos para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "lingua-inglesa-avaliacoes-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Avaliações — 6º ao 9º ano com base na BNCC",
+  "descricao": "Material pronto para usar: avaliações para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "lingua-inglesa-planejamentos-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Plano de Ensino — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: plano de ensino para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "lingua-inglesa-atividades-do-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Atividades Prontas — 6º ao 9º ano alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: atividades prontas para turmas do 6º ao 9º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-diarios-lingua-inglesa-6o-ao-9o-ano-bncc-2026": {
+  "titulo": "Planos Diários — 6º ao 9º ano com base na BNCC",
+  "descricao": "Chega de montar material do zero: planos diários para turmas do 6º ao 9º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "slides-animados-educacao-fisica-ensino-medio-bncc-2026": {
+  "titulo": "Slides para Aula de Educação Física — Ensino Médio alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: slides para aula de Educação Física para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "novo-ensino-medio-atividades-1o-ao-3o-ano-bncc-2026-educacao-fisica": {
+  "titulo": "Caderno de Atividades de Educação Física — Ensino Médio",
+  "descricao": "Chega de montar material do zero: caderno de atividades de Educação Física para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "fisica-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações por Bimestre de Física — Ensino Médio alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: avaliações por bimestre de Física para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "planos-diarios-educacao-fisica-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de Educação Física — Ensino Médio",
+  "descricao": "Material pronto para usar: planejamento diário de Educação Física para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "novo-ensino-medio-planejamentos-e-atividades-1o-ao-3o-ano-bncc-2026-educacao-fisica": {
+  "titulo": "Plano de Ensino de Educação Física — Ensino Médio conforme a BNCC",
+  "descricao": "Economize horas de preparação: plano de ensino de Educação Física para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "educacao-fisica-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações por Bimestre de Educação Física — Ensino Médio",
+  "descricao": "Material pronto para usar: avaliações por bimestre de Educação Física para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "educacao-fisica-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento de Educação Física — Ensino Médio de acordo com a BNCC",
+  "descricao": "Material pronto para usar: planejamento de Educação Física para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-diarios-fisica-ensino-medio-bncc-2026": {
+  "titulo": "Planos Diários de Física — Ensino Médio de acordo com a BNCC",
+  "descricao": "Material pronto para usar: planos diários de Física para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "educacao-fisica-planejamentos-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral de Educação Física — Ensino Médio",
+  "descricao": "Planejamento resolvido: planejamento anual e bimestral de Educação Física para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "fisica-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Atividades Prontas de Física — Ensino Médio conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: atividades prontas de Física para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "novo-ensino-medio-planejamentos-1o-ao-3o-ano-bncc-2026-fisica": {
+  "titulo": "Planejamento Anual e Bimestral de Física — Ensino Médio",
+  "descricao": "Material pronto para usar: planejamento anual e bimestral de Física para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "fisica-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento de Física — Ensino Médio conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento de Física para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações — Ensino Médio de acordo com a BNCC",
+  "descricao": "Chega de montar material do zero: avaliações para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "slides-animados-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Apresentações de Aula — Ensino Médio alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: apresentações de aula para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "planos-diarios-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Planos de Aula — Ensino Médio alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: planos de aula para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral — Ensino Médio alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento anual e bimestral para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "quimica-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Provas e Avaliações de Química — Ensino Médio alinhado à BNCC",
+  "descricao": "Material pronto para usar: provas e avaliações de Química para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "quimica-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Atividades para Imprimir de Química — Ensino Médio",
+  "descricao": "Planejamento resolvido: atividades para imprimir de Química para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planos-diarios-quimica-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de Química — Ensino Médio de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento diário de Química para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "quimica-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento de Química — Ensino Médio conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento de Química para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "slides-animados-quimica-ensino-medio-bncc-2026": {
+  "titulo": "Slides para Aula de Química — Ensino Médio com base na BNCC",
+  "descricao": "Material pronto para usar: slides para aula de Química para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "quimica-planejamentos-ensino-medio-bncc-2026": {
+  "titulo": "Plano de Ensino de Química — Ensino Médio alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: plano de ensino de Química para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "biologia-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Caderno de Atividades de Biologia — Ensino Médio conforme a BNCC",
+  "descricao": "Chega de montar material do zero: caderno de atividades de Biologia para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "biologia-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Plano de Ensino de Biologia — Ensino Médio com base na BNCC",
+  "descricao": "Chega de montar material do zero: plano de ensino de Biologia para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "planos-diarios-biologia-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de Biologia — Ensino Médio conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento diário de Biologia para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "biologia-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Provas e Avaliações de Biologia — Ensino Médio com base na BNCC",
+  "descricao": "Material pronto para usar: provas e avaliações de Biologia para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "biologia-planejamentos-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral de Biologia — Ensino Médio",
+  "descricao": "Economize horas de preparação: planejamento anual e bimestral de Biologia para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "slides-animados-biologia-ensino-medio-bncc-2026": {
+  "titulo": "Slides para Aula de Biologia — Ensino Médio alinhado à BNCC",
+  "descricao": "Material pronto para usar: slides para aula de Biologia para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "matematica-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações de Matemática — Ensino Médio de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: avaliações de Matemática para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planos-diarios-matematica-ensino-medio-bncc-2026": {
+  "titulo": "Planos de Aula de Matemática — Ensino Médio de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: planos de aula de Matemática para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "novo-ensino-medio-atividades-1o-ao-3o-ano-bncc-2026-matematica": {
+  "titulo": "Caderno de Atividades de Matemática — Ensino Médio",
+  "descricao": "Economize horas de preparação: caderno de atividades de Matemática para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "1o-ano-do-ensino-medio-apostila-projeto-integrador-intervencao-cidada-parte-1-2026-_-apostila-completa-e-pronta-artes": {
+  "titulo": "Projetos Prontos de Arte — Ensino Médio conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: projetos prontos de Arte para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "slides-animados-arte-ensino-medio-bncc-2026-artes": {
+  "titulo": "Apresentações de Aula de Arte — Ensino Médio conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: apresentações de aula de Arte para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "arte-planejamentos-e-atividades-ensino-medio-bncc-2026-artes": {
+  "titulo": "Plano de Ensino de Arte — Ensino Médio alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: plano de ensino de Arte para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "arte-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026-artes": {
+  "titulo": "Avaliações de Arte — Ensino Médio de acordo com a BNCC",
+  "descricao": "Economize horas de preparação: avaliações de Arte para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planos-diarios-arte-ensino-medio-bncc-2026-artes": {
+  "titulo": "Planejamento Diário de Arte — Ensino Médio com base na BNCC",
+  "descricao": "Economize horas de preparação: planejamento diário de Arte para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "sociologia-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento de Sociologia — Ensino Médio com base na BNCC",
+  "descricao": "Economize horas de preparação: planejamento de Sociologia para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "novo-ensino-medio-planejamentos-1o-ao-3o-ano-bncc-2026-sociologia": {
+  "titulo": "Planejamento de Sociologia — Ensino Médio de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento de Sociologia para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "novo-ensino-medio-atividades-1o-ao-3o-ano-bncc-2026-sociologia": {
+  "titulo": "Caderno de Atividades de Sociologia — Ensino Médio",
+  "descricao": "Planejamento resolvido: caderno de atividades de Sociologia para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "sociologia-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações de Sociologia — Ensino Médio conforme a BNCC",
+  "descricao": "Economize horas de preparação: avaliações de Sociologia para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "slides-animados-sociologia-ensino-medio-bncc-2026": {
+  "titulo": "Apresentações de Aula de Sociologia — Ensino Médio",
+  "descricao": "Chega de montar material do zero: apresentações de aula de Sociologia para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planos-diarios-sociologia-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de Sociologia — Ensino Médio com base na BNCC",
+  "descricao": "Tudo em um só arquivo: planejamento diário de Sociologia para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planos-diarios-lingua-portuguesa-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de Língua Portuguesa — Ensino Médio",
+  "descricao": "Tudo em um só arquivo: planejamento diário de Língua Portuguesa para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "novo-ensino-medio-planejamentos-1o-ao-3o-ano-bncc-2026-lingua-portuguesa": {
+  "titulo": "Plano de Ensino de Língua Portuguesa — Ensino Médio",
+  "descricao": "Economize horas de preparação: plano de ensino de Língua Portuguesa para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "lingua-portuguesa-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento de Língua Portuguesa — Ensino Médio conforme a BNCC",
+  "descricao": "Economize horas de preparação: planejamento de Língua Portuguesa para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "lingua-portuguesa-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações de Língua Portuguesa — Ensino Médio de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: avaliações de Língua Portuguesa para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "slides-animados-lingua-portuguesa-ensino-medio-bncc-2026": {
+  "titulo": "Slides para Aula de Língua Portuguesa — Ensino Médio conforme a BNCC",
+  "descricao": "Economize horas de preparação: slides para aula de Língua Portuguesa para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "lingua-portuguesa-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Atividades Prontas de Língua Portuguesa — Ensino Médio conforme a BNCC",
+  "descricao": "Material pronto para usar: atividades prontas de Língua Portuguesa para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "novo-ensino-medio-atividades-1o-ao-3o-ano-bncc-2026-lingua-inglesa": {
+  "titulo": "Atividades para Imprimir — Ensino Médio alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: atividades para imprimir para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "slides-animados-lingua-inglesa-ensino-medio-bncc-2026": {
+  "titulo": "Slides Prontos — Ensino Médio conforme a BNCC",
+  "descricao": "Economize horas de preparação: slides prontos para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "lingua-inglesa-planejamentos-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral — Ensino Médio alinhado à BNCC",
+  "descricao": "Planejamento resolvido: planejamento anual e bimestral para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "lingua-inglesa-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Provas e Avaliações — Ensino Médio com base na BNCC",
+  "descricao": "Material pronto para usar: provas e avaliações para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "planos-diarios-lingua-inglesa-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário — Ensino Médio conforme a BNCC",
+  "descricao": "Material pronto para usar: planejamento diário para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "lingua-inglesa-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento — Ensino Médio de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: planejamento para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "novo-ensino-medio-planejamentos-1o-ao-3o-ano-bncc-2026-historia": {
+  "titulo": "Plano de Ensino de História — Ensino Médio alinhado à BNCC",
+  "descricao": "Material pronto para usar: plano de ensino de História para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-diarios-historia-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de História — Ensino Médio com base na BNCC",
+  "descricao": "Material pronto para usar: planejamento diário de História para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "historia-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações de História — Ensino Médio alinhado à BNCC",
+  "descricao": "Economize horas de preparação: avaliações de História para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "novo-ensino-medio-atividades-1o-ao-3o-ano-bncc-2026-historia": {
+  "titulo": "Atividades para Imprimir de História — Ensino Médio alinhado à BNCC",
+  "descricao": "Economize horas de preparação: atividades para imprimir de História para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "historia-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral de História — Ensino Médio",
+  "descricao": "Planejamento resolvido: planejamento anual e bimestral de História para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "filosofia-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações de Filosofia — Ensino Médio alinhado à BNCC",
+  "descricao": "Material pronto para usar: avaliações de Filosofia para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "planos-diarios-filosofia-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Diário de Filosofia — Ensino Médio conforme a BNCC",
+  "descricao": "Material pronto para usar: planejamento diário de Filosofia para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "novo-ensino-medio-planejamentos-1o-ao-3o-ano-bncc-2026-filosofia": {
+  "titulo": "Planejamento de Filosofia — Ensino Médio com base na BNCC",
+  "descricao": "Planejamento resolvido: planejamento de Filosofia para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "filosofia-planejamentos-e-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento de Filosofia — Ensino Médio com base na BNCC",
+  "descricao": "Chega de montar material do zero: planejamento de Filosofia para turmas de Ensino Médio. Editável em Word e pronto para imprimir em PDF."
+ },
+ "filosofia-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Atividades para Imprimir de Filosofia — Ensino Médio com base na BNCC",
+  "descricao": "Material pronto para usar: atividades para imprimir de Filosofia para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planos-diarios-geografia-ensino-medio-bncc-2026": {
+  "titulo": "Planos de Aula de Geografia — Ensino Médio com base na BNCC",
+  "descricao": "Planejamento resolvido: planos de aula de Geografia para turmas de Ensino Médio. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "geografia-avaliacoes-1o-ao-3o-ano-ensino-medio-bncc-2026": {
+  "titulo": "Avaliações por Bimestre de Geografia — Ensino Médio alinhado à BNCC",
+  "descricao": "Planejamento resolvido: avaliações por bimestre de Geografia para turmas de Ensino Médio. Formato editável, para ajustar à sua turma."
+ },
+ "geografia-planejamentos-ensino-medio-bncc-2026": {
+  "titulo": "Planejamento Anual e Bimestral de Geografia — Ensino Médio",
+  "descricao": "Tudo em um só arquivo: planejamento anual e bimestral de Geografia para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "geografia-atividades-ensino-medio-bncc-2026": {
+  "titulo": "Atividades para Imprimir de Geografia — Ensino Médio alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: atividades para imprimir de Geografia para turmas de Ensino Médio. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "slides-animados-4o-ano-bncc-2026": {
+  "titulo": "Apresentações de Aula — 4º ano alinhado à BNCC",
+  "descricao": "Economize horas de preparação: apresentações de aula para turmas de 4º ano. Formato editável, para ajustar à sua turma."
+ },
+ "produto_a89680bc": {
+  "titulo": "Material de Apoio — Ensino Fundamental com base na BNCC",
+  "descricao": "Chega de montar material do zero: material de apoio para turmas do Fundamental. Formato editável, para ajustar à sua turma."
+ },
+ "planner-educacao-especial-aee-sala-de-recurso-2026": {
+  "titulo": "Material Pedagógico — Ensino Fundamental alinhado à BNCC",
+  "descricao": "Tudo em um só arquivo: material pedagógico para turmas do Fundamental. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "planejamento-bncc-2026-4o-ano-ensino-fundamental-1o-bimestre": {
+  "titulo": "Plano de Ensino — 4º ano conforme a BNCC",
+  "descricao": "Planejamento resolvido: plano de ensino para turmas de 4º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "ebook-alfabetinho-alegre-atividades-educacao-infantil-vol-1": {
+  "titulo": "Caderno de Atividades — Educação Infantil de acordo com a BNCC",
+  "descricao": "Material pronto para usar: caderno de atividades para turmas de Educação Infantil. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "relatorios-desenvolvimento-2-ano-fundamental": {
+  "titulo": "Material de Apoio — 2º ano com base na BNCC",
+  "descricao": "Economize horas de preparação: material de apoio para turmas de 2º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "relatorios-desenvolvimento-4-ano-fundamental": {
+  "titulo": "Material de Apoio — 4º ano de acordo com a BNCC",
+  "descricao": "Material pronto para usar: material de apoio para turmas de 4º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "atividades-2-ano-fundamental-bncc-2024": {
+  "titulo": "Atividades para Imprimir — 2º ano de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: atividades para imprimir para turmas de 2º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "atividades-3-ano-fundamental-bncc-2024": {
+  "titulo": "Atividades Prontas — 3º ano conforme a BNCC",
+  "descricao": "Chega de montar material do zero: atividades prontas para turmas de 3º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "atividades-1-ano-bncc-2026": {
+  "titulo": "Atividades Prontas — 1º ano conforme a BNCC",
+  "descricao": "Material pronto para usar: atividades prontas para turmas de 1º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "avaliacoes-1-ano-todas-disciplinas": {
+  "titulo": "Provas e Avaliações — 1º ano com base na BNCC",
+  "descricao": "Material pronto para usar: provas e avaliações para turmas de 1º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "avaliacoes-5-ano-todas-disciplinas": {
+  "titulo": "Avaliações — 5º ano conforme a BNCC",
+  "descricao": "Economize horas de preparação: avaliações para turmas de 5º ano. Formato editável, para ajustar à sua turma."
+ },
+ "atividades-1-ano-fundamental-todas-disciplinas": {
+  "titulo": "Atividades para Imprimir — 1º ano conforme a BNCC",
+  "descricao": "Material pronto para usar: atividades para imprimir para turmas de 1º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "atividades-4-ano-fundamental-todas-disciplinas": {
+  "titulo": "Atividades para Imprimir — 4º ano de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: atividades para imprimir para turmas de 4º ano. Formato editável, para ajustar à sua turma."
+ },
+ "atividades-5-ano-fundamental-bncc-2024": {
+  "titulo": "Atividades Prontas — 5º ano alinhado à BNCC",
+  "descricao": "Planejamento resolvido: atividades prontas para turmas de 5º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "historia-avaliacoes-6-ao-9-ano": {
+  "titulo": "Avaliações de História — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Material pronto para usar: avaliações de História para turmas do 6º ao 9º ano. Formato editável, para ajustar à sua turma."
+ },
+ "planejamentos-educacao-infantil-anual-bimestral": {
+  "titulo": "Plano de Ensino — Educação Infantil alinhado à BNCC",
+  "descricao": "Economize horas de preparação: plano de ensino para turmas de Educação Infantil. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "atividades-5-ano-todas-disciplinas": {
+  "titulo": "Atividades para Imprimir — 5º ano conforme a BNCC",
+  "descricao": "Economize horas de preparação: atividades para imprimir para turmas de 5º ano. Formato editável, para ajustar à sua turma."
+ },
+ "atividades-4-ano-todas-disciplinas": {
+  "titulo": "Atividades Prontas — 4º ano de acordo com a BNCC",
+  "descricao": "Economize horas de preparação: atividades prontas para turmas de 4º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "atividades-3-ano-todas-disciplinas": {
+  "titulo": "Atividades para Imprimir — 3º ano de acordo com a BNCC",
+  "descricao": "Economize horas de preparação: atividades para imprimir para turmas de 3º ano. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "atividades-2-ano-todas-disciplinas": {
+  "titulo": "Atividades Prontas — 2º ano de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: atividades prontas para turmas de 2º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "atividades-ensino-medio-todas-disciplinas": {
+  "titulo": "Atividades para Imprimir — Ensino Médio de acordo com a BNCC",
+  "descricao": "Material pronto para usar: atividades para imprimir para turmas de Ensino Médio. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "avaliacoes-2-ano-todas-disciplinas": {
+  "titulo": "Avaliações por Bimestre — 2º ano com base na BNCC",
+  "descricao": "Material pronto para usar: avaliações por bimestre para turmas de 2º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "avaliacoes-3-ano-todas-disciplinas": {
+  "titulo": "Avaliações — 3º ano conforme a BNCC",
+  "descricao": "Economize horas de preparação: avaliações para turmas de 3º ano. Formato editável, para ajustar à sua turma."
+ },
+ "avaliacoes-4-ano-todas-disciplinas": {
+  "titulo": "Avaliações — 4º ano alinhado à BNCC",
+  "descricao": "Planejamento resolvido: avaliações para turmas de 4º ano. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "planos-aula-atividades-eja-bncc-kit-so-escola": {
+  "titulo": "Pacote Completo — EJA com base na BNCC",
+  "descricao": "Material pronto para usar: pacote completo para turmas de EJA. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "avaliacao-diagnostica-6-ao-9-ano": {
+  "titulo": "Avaliações — 6º ao 9º ano de acordo com a BNCC",
+  "descricao": "Tudo em um só arquivo: avaliações para turmas do 6º ao 9º ano. Editável em Word e pronto para imprimir em PDF."
+ },
+ "avaliacao-diagnostica-1-ao-5-ano": {
+  "titulo": "Avaliações — 1º ao 5º ano conforme a BNCC",
+  "descricao": "Chega de montar material do zero: avaliações para turmas do 1º ao 5º ano. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "kit-matematica-atividades-jogos": {
+  "titulo": "Jogos para Imprimir de Matemática — Ensino Fundamental",
+  "descricao": "Economize horas de preparação: jogos para imprimir de Matemática para turmas do Fundamental. Arquivos editáveis, com as habilidades da BNCC indicadas."
+ },
+ "kit-alfabetizacao-eja": {
+  "titulo": "Kit Completo — EJA alinhado à BNCC",
+  "descricao": "Chega de montar material do zero: kit completo para turmas de EJA. Formato editável, para ajustar à sua turma."
+ },
+ "kit-educacao-especial": {
+  "titulo": "Kit Completo — Ensino Fundamental conforme a BNCC",
+  "descricao": "Tudo em um só arquivo: kit completo para turmas do Fundamental. Vem em Word para adaptar e em PDF para imprimir."
+ },
+ "kit-estimulacao-cognitiva": {
+  "titulo": "Pacote Completo — Ensino Fundamental de acordo com a BNCC",
+  "descricao": "Planejamento resolvido: pacote completo para turmas do Fundamental. Pronto para imprimir, com os códigos da BNCC no material."
+ },
+ "kit-so-escola-libras": {
+  "titulo": "Kit Completo — Ensino Fundamental com base na BNCC",
+  "descricao": "Material pronto para usar: kit completo para turmas do Fundamental. Vem em Word para adaptar e em PDF para imprimir."
+ }
+}
